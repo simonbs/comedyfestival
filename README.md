@@ -2,6 +2,8 @@
 
 Browse the line up for the comedy festival.
 
+![https://github.com/simonbs/comedyfestival/raw/master/screenshot.png)
+
 ## Getting started
 
 First you need to deploy [the small API](http://github.com/simonbs/comedy-festival-api). The app will attempt to fetch the up to date data from the API.
