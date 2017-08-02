@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  ComedyFestival
+
+  Created by Simon Støvring on 30/07/2017.
+  Copyright © 2017 SimonBS. All rights reserved.
+*/
+
+"schedule.title" = "Comedy Festival";
+
+"schedule_day.price_free" = "Gratis";
+"schedule_day.price_unknown" = "Ukendt pris";
+"schedule_day.sold_out" = "Udsolgt";
+"schedule_day.buy_tickets" = "Køb billet";
+
+"relativedateformatter.today" = "I dag";
+"relativedateformatter.tomorrow" = "I morgen";
+"relativedateformatter.yesterday" = "I går";
+

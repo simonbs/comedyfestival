@@ -1,0 +1,16 @@
+.DS_Store
+*~
+\#*\#
+.\#*
+
+DerivedData/
+Carthage/Checkouts
+*~.nib
+xcuserdata/
+*.xcuserstate
+
+*.ipa
+*.
+*.dSYM.zip
+
+ComedyFestival/Config.plist
