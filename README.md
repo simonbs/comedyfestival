@@ -2,7 +2,7 @@
 
 Browse the line up for the comedy festival.
 
-![https://github.com/simonbs/comedyfestival/raw/master/screenshot.png)
+![https://github.com/simonbs/comedyfestival/raw/master/screenshot.png]
 
 ## Getting started
 
