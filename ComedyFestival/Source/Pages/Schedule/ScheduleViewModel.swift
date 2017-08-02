@@ -42,7 +42,7 @@ class ScheduleViewModel {
             }
             // Load new schedule.
             self?.scheduleManager.refresh { refreshResult in
-                cacheResult.ifValue { schedule in
+                refreshResult.ifValue { schedule in
                     guard let strongSelf = self else { return }
                     strongSelf.schedule = schedule
                     strongSelf.menuTitles = strongSelf.menuTitles(from: schedule)
